@@ -82,4 +82,3 @@ if(generoFilme === "fantasia" && precoFilme < 15){
 } else {
     console.log('Escolha um outro filme :(')
 }
-
